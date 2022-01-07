@@ -1,0 +1,132 @@
+@font-face {
+  font-family: "Cambria Math";
+  panose-1: 2 4 5 3 5 4 6 3 2 4;
+}
+
+@font-face {
+  font-family: Calibri;
+  panose-1: 2 15 5 2 2 2 4 3 2 4;
+}
+
+@font-face {
+  font-family: Tahoma;
+  panose-1: 2 11 6 4 3 5 4 4 2 4;
+}
+
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+  margin: 0cm;
+  font-size: 11pt;
+  font-family: "Calibri", sans-serif;
+  mso-fareast-language: EN-US;
+}
+
+span.EmailStyle17 {
+  mso-style-type: personal-compose;
+  font-family: "Calibri", sans-serif;
+  color: windowtext;
+}
+
+.MsoChpDefault {
+  mso-style-type: export-only;
+  font-family: "Calibri", sans-serif;
+  mso-fareast-language: EN-US;
+}
+
+@page WordSection1 {
+  size: 612pt 792pt;
+  margin: 72pt 72pt 72pt 72pt;
+}
+
+div.WordSection1 {
+  page: WordSection1;
+}
+
+.headings {
+  font-size: 8.5pt;
+  font-family: "Tahoma", sans-serif;
+  color: black;
+  mso-fareast-language: EN-GB;
+}
+
+.name {
+  font-size: 8.5pt;
+  font-family: Tahoma, sans-serif;
+  color: black;
+  mso-fareast-language: EN-GB;
+}
+
+.tableRow1 {
+  width: 9.25pt;
+  padding: 7.5pt 0.75pt 0.75pt 7.5pt;
+  height: 42.4pt;
+}
+
+.tableRow2 {
+  width: 208.75pt;
+  padding: 7.5pt 0.75pt 0.75pt 7.5pt;
+  height: 42.4pt;
+}
+
+.firstImagep {
+  font-family: "Times New Roman, serif";
+  color: black;
+  mso-fareast-language: EN-GB;
+  text-decoration: none;
+}
+
+.profilepic {
+  width: 0.3958in;
+  height: 0.3958in;
+}
+
+.random {
+  mso-fareast-language: EN-GB;
+}
+
+.linking {
+  color: #0563c1;
+}
+
+.bottomImage {
+  width: 2.2812in;
+  height: 0.5729in;
+}
+
+.iconImages {
+  width: 0.1979in;
+  height: 0.1979in;
+}
+
+iconSpan {
+  font-family: "Times New Roman", serif;
+  color: #000068;
+  mso-fareast-language: EN-GB;
+  text-decoration: none;
+}
+
+body {
+  word-wrap: break-word;
+}
+
+table {
+  width: 222.5pt;
+  margin-left: -5.65pt;
+}
+tr {
+  height: 42.4pt;
+}
+
+.customText {
+  line-height: 13.5pt;
+}
+.address {
+  margin-bottom: 12pt;
+  line-height: 13.5pt;
+}
+
+.bannerSpan {
+  color: windowtext;
+  text-decoration: none;
+}
