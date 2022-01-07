@@ -21,11 +21,6 @@ span.EmailStyle17 {
   mso-fareast-language: EN-US;
 }
 
-@page WordSection1 {
-  size: 612pt 792pt;
-  margin: 72pt 72pt 72pt 72pt;
-}
-
 div.WordSection1 {
   page: WordSection1;
 }
